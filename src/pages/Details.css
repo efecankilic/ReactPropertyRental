@@ -1,0 +1,11 @@
+.details-container {
+    margin: 1rem auto;
+    max-width: 600px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  .details-container img {
+    max-width: 100%;
+    height: auto;
+  }
+  
